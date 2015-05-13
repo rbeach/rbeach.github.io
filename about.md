@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Ryan Beach
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a front-end developer at [Duo Consulting](http://duoconsulting.com).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ryan.beach26@gmail.com](mailto:ryan.beach26@gmail.com)
